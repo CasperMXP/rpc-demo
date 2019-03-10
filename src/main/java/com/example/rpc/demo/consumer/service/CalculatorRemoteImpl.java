@@ -1,4 +1,4 @@
-package com.example.rpc.demo.comsumer.service;
+package com.example.rpc.demo.consumer.service;
 
 import com.example.rpc.demo.provider.service.Calculator;
 import com.example.rpc.demo.reuqest.CalculateRpcRequest;

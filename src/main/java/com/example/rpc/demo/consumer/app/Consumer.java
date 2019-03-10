@@ -1,6 +1,6 @@
-package com.example.rpc.demo.comsumer.app;
+package com.example.rpc.demo.consumer.app;
 
-import com.example.rpc.demo.comsumer.service.CalculatorRemoteImpl;
+import com.example.rpc.demo.consumer.service.CalculatorRemoteImpl;
 import com.example.rpc.demo.provider.service.Calculator;
 
 public class Consumer {
